@@ -84,7 +84,7 @@
     <br>
     <hr style="background-color:powderblue;">
     <br>
-    <p><img src="file:///C:/Users/тд/Downloads/photo5371092483708139810.JPG" width="200" height="280" align="left" 
+    <p><img src="photo5371092483708139810.JPG" width="200" height="280" align="left" 
   vspace="5" hspace="5" class="second-img "/> I'm 6 years old in human terms, but in cat terms I'm 40 years old. Yes, yes, I'm old, but the energy in me just keeps on flowing. I like to eat, sleep and play. However, with play I sometimes get carried away and accidentally bite my owners. And of food I like:</p>
    <ol>
   <li><strong>jelly cat food,</strong></li>
